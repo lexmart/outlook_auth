@@ -1,0 +1,16 @@
+{
+  "name": "outlook_auth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "jsonwebtoken": "^5.0.4",
+    "simple-oauth2": "^0.2.1"
+  }
+}
